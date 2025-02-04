@@ -81,6 +81,20 @@ this.information5 = "capuchino caramelo <br> $60.00";
 this.img6 = "/cafefrio.jpg";
 this.information6 = "capuchino caramelo <br> $65.00";
 break;
+case 4:
+  this.img1 = "/birria.jpg";
+  this.information1 = "Tacos de Birria <br> $20.00";
+  this.img2 = "/enchiladas.jpg";
+  this.information2 = "Enchiladas <br> $35.00";
+  this.img3 = "/guacamole.jpg";
+  this.information3 = "Guacamole <br> $25.00";
+  this.img4 = "/pozole.jpg";
+  this.information4 = "Pozole <br> $40.00";
+  this.img5 = "/tacos.jpg";
+  this.information5 = "Tacos <br> $15.00";
+  this.img6 = "/tamales.jpg";
+  this.information6 = "Tamales <br> $30.00";
+  break;
 }//fin swith
 }//fin del metodo carrusel
 }//fin de la clasez|
